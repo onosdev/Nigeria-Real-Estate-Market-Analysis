@@ -106,6 +106,20 @@ The Power BI project contains the following analytical pages:
 3. **Location Intelligence**
 4. **Data Methodology**
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](dashboard-overview.png)
+
+### Price & Property Analysis
+![Price & Property Analysis](price-property-analysis.png)
+
+### Location Intelligence
+![Location Intelligence](location-intelligence.png)
+
+### Data Methodology
+![Data Methodology](data-methodology.png)
+
 ## Conclusion
 
 This project demonstrates how raw real estate data can be transformed into an interactive business intelligence solution that communicates market patterns and supports data-driven decision-making.
